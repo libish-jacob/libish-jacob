@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hi, my name is Libish Varghese Jacob and I am basically from a small but beautiful southern state of India called Kerala. I am a husband and a father. I am basically a software engineer, primarily focused on Microsoft technologies. I also have interest in the open source alternative of the Microsoft provided solutions. I started my career officially on 2nd of June 2008. I started with a startup and I was exposed to many different languages and technologies and later settled with .Net.
 My personal Blog is http://simplebasics.net/
-I am open to any suggestion on improvement preferably via the comment system so that it could then be referred by those who refer to it.
+I am open to any suggestion on improvement; Please feel free to reach out.
 
 <!--
 **libish-jacob/libish-jacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
